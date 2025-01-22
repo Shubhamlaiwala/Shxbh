@@ -26,8 +26,6 @@
 - **LinkedIn:** https://www.linkedin.com/in/shubham-laiwala-470b271b1/
 - **Email:** laiwalashubhamp@gmail.com
 
-## 📘 My Projects:
-- **[Project Name 1](Link to Repository)**: Description of what the project does and technologies used.
-- **[Project Name 2](Link to Repository)**: Brief description of the project’s scope and its impact.
+
 
 
